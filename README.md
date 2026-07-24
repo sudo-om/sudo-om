@@ -3,24 +3,27 @@
 <!-- Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=600&height=80&lines=I+AM+VENGEANCE.+I+AM+THE+NIGHT.;I+AM+SUDO+OM.+%E2%9A%A1%EF%B8%8F;Vibe+Coding+in+the+Shadows...;Shipping+Code+at+3+AM+fr+fr;%3E_+$+sudo+chown+-R+om:gotham+/" alt="Typing SVG" />
 
-<!-- Colorful Gen-Z Batman ASCII Art -->
-<pre style="font-family: 'Courier New', Courier, monospace; font-weight: bold; background: #080a0f; color: #f5c518; padding: 20px; border-radius: 15px; border: 2px solid #f5c518; box-shadow: 0 0 20px rgba(245, 197, 24, 0.3); display: inline-block; text-align: left; line-height: 1.2;">
-<span style="color: #f5c518;">                 _==/          i  i          \==_                 </span>
-<span style="color: #f5c518;">               /XX/            |  |            \XX\               </span>
-<span style="color: #ffd700;">              /X/              |  |              \X\              </span>
-<span style="color: #ffd700;">             |XX|              |  |              |XX|             </span>
-<span style="color: #ffea00;">             |XX|              |  |              |XX|             </span>
-<span style="color: #00ffff;">             |XX(\            /    \            /)XX|             </span>
-<span style="color: #00ffff;">              \XX\_          /  /\  \          _/XX/              </span>
-<span style="color: #ff007f;">               \XXX\________/  /  \  \________/XXX/               </span>
-<span style="color: #ff007f;">                 \XXXXXXXXXXXX/    \XXXXXXXXXXXX/                 </span>
-<span style="color: #a855f7;">                  \XXXXXXXXXX/      \XXXXXXXXXX/                  </span>
-<span style="color: #a855f7;">                   \XXXXXXXX/        \XXXXXXXX/                   </span>
-<span style="color: #3b82f6;">                    \XXXXXX/          \XXXXXX/                    </span>
-<span style="color: #3b82f6;">                     \XXXX/            \XXXX/                     </span>
-<span style="color: #10b981;">                      \XX/              \XX/                      </span>
-<span style="color: #10b981;">                       \/                \/                       </span>
-<span style="color: #f5c518;">  🦇 [  T H E  D A R K  K N I G H T  O F  R O O T  ] 🦇  </span>
+<!-- Colorful Gen-Z Realistic Batman ASCII Art -->
+<pre style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 11px; font-weight: bold; background: #080a0f; padding: 22px 35px; border-radius: 16px; border: 2px solid #f5c518; box-shadow: 0 0 30px rgba(245, 197, 24, 0.4); display: inline-block; text-align: left; line-height: 1.2;">
+<span style="color: #f5c518;">                      T\                                  /T                      </span>
+<span style="color: #f5c518;">                      | \                                / |                      </span>
+<span style="color: #ffd700;">                      |  \      . - - - - - - .         /  |                      </span>
+<span style="color: #ffd700;">                      |   \  . '               ' .     /   |                      </span>
+<span style="color: #ffea00;">                      |   /                       \    \   |                      </span>
+<span style="color: #ffea00;">                      |  /   /-----------------\   \    \  |                      </span>
+<span style="color: #00ffff;">                      | |   /     __     __     \   |    | |                      </span>
+<span style="color: #00ffff;">                      | |  |     /  \   /  \     |  |    | |                      </span>
+<span style="color: #38bdf8;">                      | |  |    ( @  ) ( @  )    |  |    | |                      </span>
+<span style="color: #38bdf8;">                      | |  |     \__/   \__/     |  |    | |                      </span>
+<span style="color: #818cf8;">                      | |   \        ___        /   |    | |                      </span>
+<span style="color: #818cf8;">                      |  \   \      /   \      /   /    /  |                      </span>
+<span style="color: #c084fc;">                      |   \   \____|_____|____/   /    /   |                      </span>
+<span style="color: #f472b6;">                       \   \                     /    /   /                       </span>
+<span style="color: #fb7185;">                        \   ' .                 . '  /   /                        </span>
+<span style="color: #f5c518;">                         ' .    ' - . _ _ . - '    . '                            </span>
+<span style="color: #f5c518;">                            ' - .             . - '                               </span>
+<span style="color: #ffd700;">                                  ' - . . - '                                     </span>
+<span style="color: #f5c518;">                🦇 [  V E N G E A N C E  .  I S  .  R O O T  ] 🦇                 </span>
 </pre>
 
 <br/>
